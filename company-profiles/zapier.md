@@ -20,11 +20,40 @@ Worldwide
 
 ## Company technologies
 
-Python, Django, React, Linode, nginx, Gunicorn, MySQL, Redis and RabbitMQ
+Backend:
 
-## Office Locations
+- Python
+- Django
+- Celery
+- Node.js
 
-None
+Frontend:
+- Javascript
+- React
+
+Infrastructure:
+- Amazon Web Services
+- AWS Lambda
+- nginx
+- Gunicorn
+- Ansible
+- Packer
+
+Datastores:
+
+- MySQL
+- Redis
+- Memcached
+- ZooKeeper
+
+Queues:
+
+- RabbitMQ
+- Kafka
+
+## Office locations
+
+**None**
 
 ## How to apply
 

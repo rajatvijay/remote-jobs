@@ -8,27 +8,27 @@ We are the people behind WordPress.com, which serves more than 15.8 billion page
 
 ## Company size
 
-Over 500 [Automatticians](https://automattic.com/about/).
+Over 640+ [Automatticians](https://automattic.com/about/).
 
 ## Remote status
 
-Choose your own adventure · Everyone works from their own home or office, and we’re spread out all over the world — United States, Canada, Ireland, Scotland, Japan, Iceland, Bulgaria, Australia, and more.
+Choose your own adventure · Everyone works from their own home or office, and we’re spread out all over the world.
 
 Home office setup and co-working allowances. Working from a coffee shop? You can use your co-working allowance for the requisite latte!
 
-500+ employees work from [homes in one of 50 countries](https://automattic.com/map/).
+All of our employees work from homes / co-working locations / coffee shops / wherever they want in [one of 50 countries](https://automattic.com/map/).
 
 ## Region
 
-Worldwide - our team members hail from nearly every continent and over 50 countries around the world.
+Worldwide - our team members hail from all over, every continent except Antarctica (so far!) - this means over 50 countries around the world.
 
 ## Company technologies
 
-WordPress, <a href="https://ma.tt/2015/11/dance-to-calypso/">JavaScript (Node/React/Redux)</a>, PHP, Spark, Kafka, Elasticsearch, Impala/Hive, MySQL, Java, Python
+WordPress, [JavaScript (Node/React/Redux)](https://ma.tt/2015/11/dance-to-calypso/), PHP, Spark, Kafka, Elasticsearch, Impala/Hive, MySQL, Java, Python
 
-## Office Locations
+## Office locations
 
-[The Lounge](https://lounge.automattic.com/) is the home away from home for Automatticians, located at [132 Hawthorne](132 Hawthorne St, San Francisco, CA 94107).
+We no longer have an official physical office.
 
 ## How to apply
 
